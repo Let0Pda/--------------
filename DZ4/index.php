@@ -40,7 +40,7 @@
                         <img src="https://papik.pro/uploads/posts/2022-01/1641163489_28-papik-pro-p-detskii-risunok-stroitelya-30.jpg"
                             style="width:100%" alt="Avatar">
                         <div class="w3-display-bottomleft w3-container w3-text-black">
-                            <?php //php 7.2.24
+                            <?php 
 
               $name = 'Вася';
               $prof = 'Строитель';
@@ -67,7 +67,7 @@
 
                         <p class="w3-large"><b><i
                                     class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Навыки</b></p>
-                        <?php //php 7.2.24
+                        <?php 
 
             $navyk = [97, 83, 70, 80];
 
@@ -173,7 +173,8 @@
                     </div>
                     <div class="w3-container">
                         <h5 class="w3-opacity"><b>gb.ru</b></h5>
-                        <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>В настоящее время</h6>
+                        <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>В настоящее время
+                        </h6>
                         <p>Инженер ИИ</p><br>
                     </div>
                 </div>
@@ -189,7 +190,7 @@
 
     <!-- Footer -->
     <footer class="w3-container w3-teal w3-center w3-margin-top">
-        <p>Find me on social media.</p>
+        <p>Вася-строитель в Социальных сетях ))) .</p>
         <i class="fa fa-pinterest-p w3-hover-opacity"></i>
         <i class="fa fa-twitter w3-hover-opacity"></i>
         <i class="fa fa-linkedin w3-hover-opacity"></i>
